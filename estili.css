@@ -1,0 +1,39 @@
+h1{
+color: black;
+text-aling: center;
+fon-family: Zapf-Chancery;
+}
+body{
+background-color: #80B1D3;
+p{
+color: black;
+font-family: monospace;
+text-align: justify;
+font-size: 21px;
+
+}
+  .titulo1{
+     color: black;
+     text-align: right;
+  }
+.titulo2{
+color: black;
+font-family: fantasy;
+text-decoration: underline;
+text-align: right;
+}
+table{
+/*border: 5px black; */
+    border-collapse: collapse;
+width: 80%;
+margin: auto;
+}
+th, td{
+    border: 5px black;
+}
+th{
+    height: 50px;
+    text-align: center;
+    color: bisque;
+    vertical-align:baseline; 
+}
